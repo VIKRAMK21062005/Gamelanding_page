@@ -19,7 +19,7 @@ A cutting-edge multimedia gaming web experience built using **React**, **Tailwin
 
 ## 🌐 Live Demo
 
-🔗 
+### 🔗 Live Host : [https://gamelanding-page.vercel.app/](https://gamelanding-page.vercel.app/)
 
 ---
 
@@ -35,20 +35,7 @@ A cutting-edge multimedia gaming web experience built using **React**, **Tailwin
 
 ---
 
-## 📁 Project Structure
-redefine-gaming/
-├── public/
-│ ├── assets/ # Media files: videos, images, audio
-│ └── index.html
-├── src/
-│ ├── components/ # React components
-│ ├── pages/ # Page/section components
-│ ├── App.jsx
-│ └── main.jsx
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
+
 ## 🚧 Future Enhancements
 🌐 Add multiple 3D scenes using Three.js or Spline
 
@@ -63,3 +50,4 @@ redefine-gaming/
 📤 Export game scenes and stats as images or shareable media
 
 #
+
